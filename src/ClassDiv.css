@@ -5,3 +5,12 @@
     border: 2px solid blue ;
     background-color: red;
 }
+
+@media(min-width:0px) and (max-width: 480px){
+    .classDiv{
+        height: 15rem;
+    width: 22rem;
+    }
+    
+
+}

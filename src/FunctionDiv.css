@@ -5,3 +5,12 @@
     width: 30rem;
     background-color: yellow;
 }
+
+@media(min-width:0px) and (max-width: 480px){
+    .functionDiv__box{
+        height: 15rem;
+    width: 22rem;
+    }
+    
+
+}
