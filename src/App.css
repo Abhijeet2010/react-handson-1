@@ -5,6 +5,7 @@
 
 .app__btn{
 display: flex;
+flex-wrap: wrap;
 
 } 
  .btn{
@@ -18,4 +19,5 @@ display: flex;
  .showbtnDiv{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
  }
